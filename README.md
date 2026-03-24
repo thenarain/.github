@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate freelance software engineer with a versat
 
 ## 🛠️ Who I Am
 
-- **Profession:** Freelance Software Engineer  
+- **Profession:** Freelance Software Engineer
 - **Focus Areas:**
   - Full-Stack Development
   - Embedded C Development
@@ -29,12 +29,14 @@ Welcome to my GitHub! I'm a passionate freelance software engineer with a versat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Tools:**
+
 - **Backend:** Spring (Java), Express.js (Node.js)
 - **Frontend:** React.js
 - **Embedded:** Embedded C, HAL (Hardware Abstraction Layer)
 - **Systems:** Linux, Git & GitHub
 
 **Core Competencies:**
+
 - Full-stack web application development
 - Embedded C & microcontroller programming
 - Distributed system architecture & design
@@ -70,8 +72,8 @@ Brief description of the project and its impact.
 
 ---
 
-*Exploring the depths of hardware-software integration, one line of code at a time.*
+_Exploring the depths of hardware-software integration, one line of code at a time._
 
 ---
 
-*Last updated: 2026-03-24*
+_Last updated: 2026-03-24_
